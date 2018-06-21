@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<world
+    xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+    xsi:noNamespaceSchemaLocation='jaxb/world/worldSchema.xsd'>
+    <name> Margaux</name>
+    <logo> images/Logo_sushis_Master.jpeg</logo>
+    <money></money>
+    <score></score>
+    <totalangels></totalangels>
+    <activeangels></activeangels>
+    <angelbonus></angelbonus>
+    <lastupdate></lastupdate>
+    <products>
+        <product>
+            <id>1</id>
+            <name>Maki</name>
+            <logo>image/makiSaumon.jpg</logo>
+            <cout>1</cout>
+            <croissance>1.03</croissance>
+            <revenu>1</revenu>
+            <vitesse>1</vitesse>
+            <quantite>1</quantite>
+            <timeleft>1</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil>1</seuil>
+                    <idcible>1</idcible>
+                    <ratio>1</ratio>
+                    <typeratio>1</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+                <pallier>
+                    <name>Maki</name>
+                    <logo>image/makiSaumon</logo>
+                    <seuil></seuil>
+                    <idcible></idcible>
+                    <ratio></ratio>
+                    <typeratio></typeratio>
+                    <unlocked></unlocked>
+                </pallier>
+            </palliers>
+        </product>
+        <product>
+            <id></id>
+            <name></name>
+            <logo></logo>
+            <cout></cout>
+            <croissance></croissance>
+            <revenu></revenu>
+            <vitesse></vitesse>
+            <quantite></quantite>
+            <timeleft></timeleft>
+            <managerUnlocked></managerUnlocked>
+            <palliers>
+            </palliers>
+        </product>
+    </products>
+    <allunlocks>
+    </allunlocks>
+    <upgrades>
+    </upgrades>
+    <angelupgrades>
+    </angelupgrades>
+    <managers>
+    </managers>
+
+</world>
